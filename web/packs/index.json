@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "calvinhobbes.json"
+  ],
+  "homeserver_url": "https://matrix.meissner.cc"
+}

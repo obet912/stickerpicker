@@ -1,6 +1,36 @@
 {
   "packs": [
-    "calvinhobbes.json"
+    "Bender.json",
+    "calvinhobbes.json",
+    "CompleteMemePack.json",
+    "Developer.json",
+    "DonutTheDog.json",
+    "EggYolk.json",
+    "Freshshrimp.json",
+    "GreenLezard.json",
+    "Harry.json",
+    "HotCherry.json",
+    "Lizard.json",
+    "MerkelPack.json",
+    "Minions.json",
+    "MoreBama.json",
+    "MrBlanket.json",
+    "MrCroco.json",
+    "MrRaccoon.json",
+    "MrShark.json",
+    "OctoPaul.json",
+    "PatrickBob.json",
+    "real_cats.json",
+    "Red_Squirrel.json",
+    "Rrredpanda.json",
+    "Shpooky.json",
+    "StarPatrick.json",
+    "Stingray.json",
+    "ThatIsWhatSheSaid.json",
+    "Totoro.json",
+    "TwisterDog.json",
+    "USAPresident.json",
+    "YellowBoy.json"
   ],
   "homeserver_url": "https://matrix.meissner.cc"
 }
